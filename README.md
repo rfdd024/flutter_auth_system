@@ -1,4 +1,4 @@
-# Project sign up and login page with authentication to database MySQL
+# Sign up and login page with authentication to database MySQL
 
 My old Flutter project.
 
