@@ -1,7 +1,4 @@
 # Sign up and login page with authentication to database MySQL
-
-My old Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
